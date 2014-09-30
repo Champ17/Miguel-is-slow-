@@ -1,0 +1,23 @@
+div{
+    border-style:  outset;
+    border-width: 5px;
+    border-color: black;
+    padding: 30px;
+}
+
+#th{
+    background-image: url(http://fc03.deviantart.net/fs71/f/2010/119/4/c/Ecruteak_City_at_night_by_Trikki466.png);
+    background-size: cover;
+    color: whitesmoke;
+    
+}
+
+#fi{
+    background-image: url(http://www.brendancwood.com/img/html_css_js_bootstrap.png);
+    background-size: cover;
+}
+
+#img8{
+    width: 400px;
+    height: auto;
+}
